@@ -1,0 +1,31 @@
+{
+  "short_name": "레시피뷰어",
+  "name": "레시피 뷰어 - 요리 영상을 단계별 레시피로",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ff6b6b",
+  "background_color": "#f5f5f5",
+  "description": "요리 영상을 단계별 레시피로 변환하는 모바일 웹 서비스",
+  "categories": ["food", "lifestyle", "utilities"],
+  "lang": "ko",
+  "scope": "/",
+  "prefer_related_applications": false
+}
